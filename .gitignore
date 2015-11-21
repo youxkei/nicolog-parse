@@ -1,0 +1,7 @@
+node_modules
+
+.parse.local
+.parse.project
+
+src/.env.js
+cloud/main.js
